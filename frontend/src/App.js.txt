@@ -1,0 +1,12 @@
+import React from 'react';
+
+function App() {
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Yigal Solar System</h2>
+      <p>האתר שלך עובד! עכשיו אפשר להתחיל לבנות אותו.</p>
+    </div>
+  );
+}
+
+export default App;
